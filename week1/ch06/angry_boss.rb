@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts "WHAT DO YOU WANT!"
+answer = gets.chomp
+puts answer.upcase + "?????!, You are fired!"
