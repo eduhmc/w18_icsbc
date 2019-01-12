@@ -1,4 +1,4 @@
-def ask question
+def ask_question
 
 puts question
 reply = gets.chomp.downcase
